@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "myLib")(type "KiCad")(uri "/home/simon/Documents/hardware_dev/projects/smartWatch/pcb/lib/LIB_MYLIB/myLib.pretty")(options "")(descr ""))
+)
