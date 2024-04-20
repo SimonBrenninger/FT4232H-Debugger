@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SMH-105-02-T-D-TR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-06-23-10:40:49)
+    (mountForm default
+        (footprintRef "SMH10502TDTR")
+        (spec "System")
+    )
+)

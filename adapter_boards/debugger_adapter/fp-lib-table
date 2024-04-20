@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ft4232_debugger")(type "KiCad")(uri "/home/simon/Documents/hardware_dev/projects/ft4232_debugger/lib/ft4232_debugger.pretty")(options "")(descr ""))
+)

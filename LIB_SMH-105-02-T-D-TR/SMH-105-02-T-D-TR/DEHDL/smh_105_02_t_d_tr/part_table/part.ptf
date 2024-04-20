@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SMH_105_02_T_D_TR'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "SAMTEC", "SMH-105-02-T-D-TR" (!) = "", "SMH10502TDTR", "Other", "200-SMH10502TDTR", "https://www.mouser.co.uk/ProductDetail/Samtec/SMH-105-02-T-D-TR?qs=Cqqh%252BS766wkiSGNTyR683A%3D%3D", "Headers & Wire Housings .100" Horizontal Surface Mount Socket Strip", "", "4.95 mm"
+END_PART
+
+END.

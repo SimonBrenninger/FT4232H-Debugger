@@ -1,0 +1,9 @@
+Manufacturer=SAMTEC
+PartNumber=SMH-105-02-T-D-TR
+PartCategory=Connector
+PackageCategory=Other
+PinCount=10
+Version=1.2
+Released=2020-06-23 10:40:49
+Downloaded=2024-02-11 08:24:56
+3D=N
