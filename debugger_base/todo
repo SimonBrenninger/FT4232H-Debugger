@@ -1,3 +1,6 @@
 add rx / tx leds
 one connector / module for each ftdi channel
 esd protection
+
+ERRATA:
+silk screen pin description is in the wrong order
