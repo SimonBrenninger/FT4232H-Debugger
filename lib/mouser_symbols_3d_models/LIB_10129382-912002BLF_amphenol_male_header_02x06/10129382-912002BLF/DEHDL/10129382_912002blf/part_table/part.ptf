@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '10129382_912002BLF'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Amphenol", "10129382-912002BLF" (!) = "", "HDRRA12W67P254_2X6_1524X254X503P", "Header, Unshrouded - Right Angle PTH Pin", "", "", "Connector Header Through Hole, Right Angle 12 position 0.100" (2.54mm)", "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/10129382.pdf", "5.03 mm"
+END_PART
+
+END.

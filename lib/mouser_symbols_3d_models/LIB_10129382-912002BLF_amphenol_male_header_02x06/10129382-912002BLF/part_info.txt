@@ -1,0 +1,9 @@
+Manufacturer=Amphenol
+PartNumber=10129382-912002BLF
+PartCategory=Connector
+PackageCategory=Header, Unshrouded - Right Angle PTH Pin
+PinCount=12
+Version=1.1
+Released=2023-10-12 16:57:16
+Downloaded=2024-03-31 15:50:38
+3D=Y
