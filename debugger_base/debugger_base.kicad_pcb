@@ -4693,6 +4693,9 @@
     )
 
     (stroke (width 0.15) (type solid)) (fill solid) (layer "User.1") (tstamp 2bd544c1-fcaf-4fbe-bcf6-b0c7b8a35341))
+  (gr_text "v0.1/04.24" (at 147.066 82.931 90) (layer "B.SilkS") (tstamp 52774968-ab3e-436f-929f-d4aa839aef98)
+    (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+  )
   (gr_text "RX" (at 138.049 75.946 90) (layer "F.SilkS" knockout) (tstamp 098d9571-19e2-40a5-836b-83605dff6321)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
@@ -4855,7 +4858,7 @@
   (gr_text "ChC" (at 136.525 82.804 90) (layer "F.SilkS") (tstamp d0345f84-f083-436d-b54e-410e83d30729)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
-  (gr_text "FT4243H" (at 101.346 102.87 90) (layer "F.SilkS") (tstamp d8c660b6-fe59-4f40-9540-6bdc31e6766f)
+  (gr_text "FT4232H" (at 101.346 102.87 90) (layer "F.SilkS") (tstamp d8c660b6-fe59-4f40-9540-6bdc31e6766f)
     (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom))
   )
   (gr_text "DD0" (at 117.983 72.375 180) (layer "F.SilkS") (tstamp e800e20b-c170-4f65-9984-d56d83049046)
