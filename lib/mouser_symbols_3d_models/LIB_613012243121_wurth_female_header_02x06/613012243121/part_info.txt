@@ -1,9 +1,0 @@
-Manufacturer=Würth Elektronik
-PartNumber=613012243121
-PartCategory=Connector
-PackageCategory=Other
-PinCount=12
-Version=1.4
-Released=2019-04-27 23:01:24
-Downloaded=2024-03-31 15:50:20
-3D=Y

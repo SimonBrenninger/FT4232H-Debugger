@@ -1,9 +1,0 @@
-Manufacturer=Adam Tech
-PartNumber=BHR-06-VUA
-PartCategory=Connector
-PackageCategory=Header, Shrouded - Straight PTH Box
-PinCount=6
-Version=1.1
-Released=2021-11-19 17:14:58
-Downloaded=2024-03-31 20:53:42
-3D=Y
