@@ -7,7 +7,7 @@
 	(title_block
 		(title "FT4232 Debugger Base")
 		(date "2024-02-10")
-		(rev "v0.1")
+		(rev "v1.0")
 		(comment 4 "Simon Brenninger")
 	)
 	(lib_symbols)
@@ -332,17 +332,6 @@
 			(type default)
 		)
 		(uuid "ffd0222b-c458-44a8-a37e-360219b7ab78")
-	)
-	(text "check pinout (description, pin number, package)\npullup on eeprom pins\n\n74hc\nldo\noscillator load caps"
-		(exclude_from_sim no)
-		(at 177.8 180.34 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "496aa99b-a66b-4613-9d04-491a99cd4f82")
 	)
 	(sheet
 		(at 177.8 35.56)

@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "32028403-798e-466b-8482-cdf9ae195049")
 	(paper "A4")
+	(title_block
+		(title "FT4232 Debugger Base")
+		(date "2024-02-10")
+		(rev "v1.0")
+		(comment 4 "Simon Brenninger")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_02x06_Odd_Even"
 			(pin_names
@@ -6953,7 +6959,6 @@
 	)
 	(label "DDBUS4"
 		(at 44.45 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6964,7 +6969,6 @@
 	)
 	(label "BDBUS3"
 		(at 256.54 82.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6975,7 +6979,6 @@
 	)
 	(label "ADBUS2"
 		(at 256.54 57.15 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6986,7 +6989,6 @@
 	)
 	(label "BDBUS6"
 		(at 44.45 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6997,7 +6999,6 @@
 	)
 	(label "DDBUS6"
 		(at 256.54 135.89 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7008,7 +7009,6 @@
 	)
 	(label "CDBUS4"
 		(at 44.45 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7019,7 +7019,6 @@
 	)
 	(label "BDBUS0"
 		(at 52.07 81.28 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7030,7 +7029,6 @@
 	)
 	(label "DDBUS7"
 		(at 64.77 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7041,7 +7039,6 @@
 	)
 	(label "DDBUS1"
 		(at 256.54 123.19 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7052,7 +7049,6 @@
 	)
 	(label "DDBUS[0..7]"
 		(at 267.97 123.19 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7063,7 +7059,6 @@
 	)
 	(label "ADBUS1"
 		(at 72.39 55.88 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7074,7 +7069,6 @@
 	)
 	(label "CDBUS0"
 		(at 256.54 97.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7085,7 +7079,6 @@
 	)
 	(label "DDBUS2"
 		(at 256.54 125.73 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7096,7 +7089,6 @@
 	)
 	(label "BDBUS7"
 		(at 64.77 88.9 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7107,7 +7099,6 @@
 	)
 	(label "ADBUS0"
 		(at 52.07 55.88 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7118,7 +7109,6 @@
 	)
 	(label "CDBUS1"
 		(at 256.54 100.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7129,7 +7119,6 @@
 	)
 	(label "BDBUS[0..7]"
 		(at 267.97 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7140,7 +7129,6 @@
 	)
 	(label "CDBUS1"
 		(at 72.39 106.68 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7151,7 +7139,6 @@
 	)
 	(label "BDBUS1"
 		(at 256.54 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7162,7 +7149,6 @@
 	)
 	(label "CDBUS[0..7]"
 		(at 52.07 123.19 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7173,7 +7159,6 @@
 	)
 	(label "CDBUS0"
 		(at 52.07 106.68 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7184,7 +7169,6 @@
 	)
 	(label "ADBUS3"
 		(at 256.54 59.69 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7195,7 +7179,6 @@
 	)
 	(label "~{RESET}"
 		(at 128.27 135.89 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7206,7 +7189,6 @@
 	)
 	(label "BDBUS3"
 		(at 72.39 83.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7217,7 +7199,6 @@
 	)
 	(label "ADBUS4"
 		(at 44.45 60.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7228,7 +7209,6 @@
 	)
 	(label "BDBUS5"
 		(at 256.54 87.63 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7239,7 +7219,6 @@
 	)
 	(label "CDBUS6"
 		(at 256.54 113.03 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7250,7 +7229,6 @@
 	)
 	(label "ADBUS4"
 		(at 256.54 62.23 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7261,7 +7239,6 @@
 	)
 	(label "CDBUS5"
 		(at 64.77 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7272,7 +7249,6 @@
 	)
 	(label "CDBUS3"
 		(at 256.54 105.41 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7283,7 +7259,6 @@
 	)
 	(label "BDBUS6"
 		(at 256.54 90.17 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7294,7 +7269,6 @@
 	)
 	(label "BDBUS[0..7]"
 		(at 52.07 97.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7305,7 +7279,6 @@
 	)
 	(label "ADBUS7"
 		(at 64.77 63.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7316,7 +7289,6 @@
 	)
 	(label "CDBUS[0..7]"
 		(at 267.97 100.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7327,7 +7299,6 @@
 	)
 	(label "CDBUS6"
 		(at 44.45 114.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7338,7 +7309,6 @@
 	)
 	(label "ADBUS6"
 		(at 44.45 63.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7349,7 +7319,6 @@
 	)
 	(label "DDBUS4"
 		(at 256.54 130.81 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7360,7 +7329,6 @@
 	)
 	(label "ADBUS[0..7]"
 		(at 52.07 72.39 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7371,7 +7339,6 @@
 	)
 	(label "DDBUS3"
 		(at 256.54 128.27 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7382,7 +7349,6 @@
 	)
 	(label "BDBUS4"
 		(at 44.45 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7393,7 +7359,6 @@
 	)
 	(label "ADBUS2"
 		(at 52.07 58.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7404,7 +7369,6 @@
 	)
 	(label "DDBUS1"
 		(at 72.39 132.08 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7415,7 +7379,6 @@
 	)
 	(label "BDBUS4"
 		(at 256.54 85.09 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7426,7 +7389,6 @@
 	)
 	(label "CDBUS7"
 		(at 64.77 114.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7437,7 +7399,6 @@
 	)
 	(label "BDBUS5"
 		(at 64.77 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7448,7 +7409,6 @@
 	)
 	(label "CDBUS3"
 		(at 72.39 109.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7459,7 +7419,6 @@
 	)
 	(label "ADBUS5"
 		(at 64.77 60.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7470,7 +7429,6 @@
 	)
 	(label "BDBUS2"
 		(at 52.07 83.82 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7481,7 +7439,6 @@
 	)
 	(label "DDBUS3"
 		(at 72.39 134.62 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7492,7 +7449,6 @@
 	)
 	(label "DDBUS5"
 		(at 256.54 133.35 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7503,7 +7459,6 @@
 	)
 	(label "CDBUS5"
 		(at 256.54 110.49 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7514,7 +7469,6 @@
 	)
 	(label "DDBUS0"
 		(at 256.54 120.65 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7525,7 +7479,6 @@
 	)
 	(label "BDBUS2"
 		(at 256.54 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7536,7 +7489,6 @@
 	)
 	(label "CDBUS2"
 		(at 256.54 102.87 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7547,7 +7499,6 @@
 	)
 	(label "CDBUS4"
 		(at 256.54 107.95 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7558,7 +7509,6 @@
 	)
 	(label "CDBUS7"
 		(at 256.54 115.57 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7569,7 +7519,6 @@
 	)
 	(label "DDBUS0"
 		(at 52.07 132.08 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7580,7 +7529,6 @@
 	)
 	(label "ADBUS0"
 		(at 256.54 52.07 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7591,7 +7539,6 @@
 	)
 	(label "CDBUS2"
 		(at 52.07 109.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7602,7 +7549,6 @@
 	)
 	(label "ADBUS6"
 		(at 256.54 67.31 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7613,7 +7559,6 @@
 	)
 	(label "DDBUS2"
 		(at 52.07 134.62 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7624,7 +7569,6 @@
 	)
 	(label "BDBUS7"
 		(at 256.54 92.71 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7635,7 +7579,6 @@
 	)
 	(label "DDBUS[0..7]"
 		(at 52.07 148.59 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7646,7 +7589,6 @@
 	)
 	(label "DDBUS7"
 		(at 256.54 138.43 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7657,7 +7599,6 @@
 	)
 	(label "ADBUS1"
 		(at 256.54 54.61 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7668,7 +7609,6 @@
 	)
 	(label "ADBUS3"
 		(at 72.39 58.42 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7679,7 +7619,6 @@
 	)
 	(label "ADBUS7"
 		(at 256.54 69.85 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7690,7 +7629,6 @@
 	)
 	(label "BDBUS0"
 		(at 256.54 74.93 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7701,7 +7639,6 @@
 	)
 	(label "ADBUS[0..7]"
 		(at 267.97 54.61 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7712,7 +7649,6 @@
 	)
 	(label "BDBUS1"
 		(at 72.39 81.28 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7723,7 +7659,6 @@
 	)
 	(label "ADBUS5"
 		(at 256.54 64.77 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7734,7 +7669,6 @@
 	)
 	(label "DDBUS6"
 		(at 44.45 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7745,7 +7679,6 @@
 	)
 	(label "~{RESET}"
 		(at 189.23 90.17 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7756,7 +7689,6 @@
 	)
 	(label "DDBUS5"
 		(at 64.77 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7768,7 +7700,6 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 127 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7780,7 +7711,6 @@
 	(hierarchical_label "USB_P+"
 		(shape input)
 		(at 190.5 80.01 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7792,7 +7722,6 @@
 	(hierarchical_label "USB_P-"
 		(shape input)
 		(at 190.5 77.47 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7804,7 +7733,6 @@
 	(hierarchical_label "EE_CLK"
 		(shape input)
 		(at 177.8 120.65 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7816,7 +7744,6 @@
 	(hierarchical_label "GND"
 		(shape input)
 		(at 127 102.87 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7828,7 +7755,6 @@
 	(hierarchical_label "EE_CS"
 		(shape input)
 		(at 177.8 118.11 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7840,7 +7766,6 @@
 	(hierarchical_label "EE_DATA"
 		(shape input)
 		(at 177.8 123.19 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7852,7 +7777,6 @@
 	(hierarchical_label "+5V"
 		(shape input)
 		(at 127 95.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7864,7 +7788,6 @@
 	(hierarchical_label "~{LEDs_ENABLE}"
 		(shape input)
 		(at 260.35 143.51 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

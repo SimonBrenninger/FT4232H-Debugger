@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "859d38c3-108e-4675-8046-fa66c47daa82")
 	(paper "A4")
+	(title_block
+		(title "FT4232 Debugger Base")
+		(date "2024-02-10")
+		(rev "v1.0")
+		(comment 4 "Simon Brenninger")
+	)
 	(lib_symbols
 		(symbol "74xx:74HC595"
 			(exclude_from_sim no)
@@ -3381,9 +3387,18 @@
 		)
 		(uuid "ff93aaec-9c14-416a-9b31-fc77fa712edc")
 	)
+	(text "128x16 configuration"
+		(exclude_from_sim no)
+		(at 137.414 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "18a01146-8689-4d70-a434-cfcf26dabc70")
+	)
 	(label "ChanB_EN"
 		(at 172.72 58.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3394,7 +3409,6 @@
 	)
 	(label "ChanA_EN"
 		(at 172.72 55.88 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3405,7 +3419,6 @@
 	)
 	(label "ChanC_EN"
 		(at 172.72 60.96 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3416,7 +3429,6 @@
 	)
 	(label "ChanD_EN"
 		(at 172.72 63.5 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3428,7 +3440,6 @@
 	(hierarchical_label "GND"
 		(shape input)
 		(at 38.1 58.42 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3440,7 +3451,6 @@
 	(hierarchical_label "EE_CS"
 		(shape input)
 		(at 109.22 63.5 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3452,7 +3462,6 @@
 	(hierarchical_label "EE_CS"
 		(shape input)
 		(at 105.41 109.22 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3464,7 +3473,6 @@
 	(hierarchical_label "EE_DATA"
 		(shape input)
 		(at 109.22 50.8 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3476,7 +3484,6 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 38.1 54.61 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3488,7 +3495,6 @@
 	(hierarchical_label "EE_CLK"
 		(shape input)
 		(at 148.59 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3500,7 +3506,6 @@
 	(hierarchical_label "~{LEDs_ENABLE}"
 		(shape input)
 		(at 109.22 66.04 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3512,7 +3517,6 @@
 	(hierarchical_label "EE_DATA"
 		(shape input)
 		(at 148.59 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3524,7 +3528,6 @@
 	(hierarchical_label "EE_CLK"
 		(shape input)
 		(at 109.22 55.88 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "f2d2fc05-da37-4905-8d6a-d88b37c28457")
 	(paper "A4")
+	(title_block
+		(title "FT4232 Debugger Base")
+		(date "2024-02-10")
+		(rev "v1.0")
+		(comment 4 "Simon Brenninger")
+	)
 	(lib_symbols
 		(symbol "Connector:USB_C_Receptacle_USB2.0_14P"
 			(pin_names
@@ -3249,7 +3255,6 @@
 	)
 	(label "CONN_D-"
 		(at 72.39 72.39 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3260,7 +3265,6 @@
 	)
 	(label "CONN_D+"
 		(at 72.39 74.93 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3272,7 +3276,6 @@
 	(hierarchical_label "+3V3"
 		(shape input)
 		(at 195.58 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3284,7 +3287,6 @@
 	(hierarchical_label "USB_P-"
 		(shape input)
 		(at 139.7 59.69 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3296,7 +3298,6 @@
 	(hierarchical_label "GND"
 		(shape input)
 		(at 195.58 135.89 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3308,7 +3309,6 @@
 	(hierarchical_label "+5V"
 		(shape input)
 		(at 195.58 128.27 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3320,7 +3320,6 @@
 	(hierarchical_label "USB_P+"
 		(shape input)
 		(at 139.7 85.09 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
